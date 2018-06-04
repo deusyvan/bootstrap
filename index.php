@@ -14,9 +14,8 @@
 			<p>Este é o meu primeiro teste</p>
 			
 			<div class="row">
-				<div class="col-lg-6" style="text-align:center">A</div>
-				<div class="col-lg-3" style="text-align:center">B</div>
-				<div class="col-lg-3" style="text-align:center">C</div>
+				<div class="col-sm-3" style="text-align: center; background-color: #999">A</div>
+				<div class="col-sm-9" style="text-align: center; background-color: #EEE">B</div>
 			</div>
 		</div>
 	</body>
