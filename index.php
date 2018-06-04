@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<table class="table table-condensed">
+			<table class="table">
 				<thead>
     				<tr>
     					<th>Nome</th>
@@ -29,7 +29,7 @@
     					<td>De Tal</th>
     					<td>fulano@gmail.com</th>
     				</tr>
-    				<tr>
+    				<tr class="active">
     					<td>Fulano</th>
     					<td>De Tal</th>
     					<td>fulano@gmail.com</th>
