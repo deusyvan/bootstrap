@@ -12,6 +12,10 @@
 		<div class="container">
 			<h1>Meu primeiro sistema bootstrap</h1>
 			<p>Este é o meu primeiro teste</p>
+			
+			<div class="row">
+			
+			</div>
 		</div>
 	</body>
 </html>
