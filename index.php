@@ -15,31 +15,29 @@
 			
 			<hr/>
 			
-			<table>
+			<table class="table">
 				<tr>
 					<th>Nome</th>
 					<th>Sobrenome</th>
 					<th>E-mail</th>
 				</tr>
 				<tr>
-					<th>Fulano</th>
-					<th>De Tal</th>
-					<th>fulano@gmail.com</th>
+					<td>Fulano</th>
+					<td>De Tal</th>
+					<td>fulano@gmail.com</th>
 				</tr>
 				<tr>
-					<th>Fulano</th>
-					<th>De Tal</th>
-					<th>fulano@gmail.com</th>
-				</tr>
-				<tr>
-					<th>Fulano</th>
-					<th>De Tal</th>
-					<th>fulano@gmail.com</th>
-				</tr>
-				<tr>
-					<th>Fulano</th>
-					<th>De Tal</th>
-					<th>fulano@gmail.com</th>
+					<td>Fulano</th>
+					<td>De Tal</th>
+					<td>fulano@gmail.com</th>
+				</tr><tr>
+					<td>Fulano</th>
+					<td>De Tal</th>
+					<td>fulano@gmail.com</th>
+				</tr><tr>
+					<td>Fulano</th>
+					<td>De Tal</th>
+					<td>fulano@gmail.com</th>
 				</tr>
 			</table>
 			
