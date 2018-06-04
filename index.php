@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<p class="bg-success">Este texto representa algum tipo de sucesso.</p>
+			<p class="bg-info">Este texto representa algum tipo de sucesso.</p>
 			
 		</div>
 	</body>
