@@ -9,7 +9,7 @@
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	</head>
 	<body>
-		<div class="container-fluid">
+		<div class="container">
 			<h1>Meu primeiro sistema bootstrap</h1>
 			<p>Este é o meu primeiro teste</p>
 		</div>
