@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<p class="bg-danger">Este texto representa algum tipo de perigo.</p>
+			<p class="bg-success">Este texto representa algum tipo de sucesso.</p>
 			
 		</div>
 	</body>
