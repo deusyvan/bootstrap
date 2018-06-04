@@ -16,29 +16,33 @@
 			<hr/>
 			
 			<table class="table table-striped">
-				<tr>
-					<th>Nome</th>
-					<th>Sobrenome</th>
-					<th>E-mail</th>
-				</tr>
-				<tr>
-					<td>Fulano</th>
-					<td>De Tal</th>
-					<td>fulano@gmail.com</th>
-				</tr>
-				<tr>
-					<td>Fulano</th>
-					<td>De Tal</th>
-					<td>fulano@gmail.com</th>
-				</tr><tr>
-					<td>Fulano</th>
-					<td>De Tal</th>
-					<td>fulano@gmail.com</th>
-				</tr><tr>
-					<td>Fulano</th>
-					<td>De Tal</th>
-					<td>fulano@gmail.com</th>
-				</tr>
+				<thead>
+    				<tr>
+    					<th>Nome</th>
+    					<th>Sobrenome</th>
+    					<th>E-mail</th>
+    				</tr>
+				</thead>
+				<tbody>
+    				<tr>
+    					<td>Fulano</th>
+    					<td>De Tal</th>
+    					<td>fulano@gmail.com</th>
+    				</tr>
+    				<tr>
+    					<td>Fulano</th>
+    					<td>De Tal</th>
+    					<td>fulano@gmail.com</th>
+    				</tr><tr>
+    					<td>Fulano</th>
+    					<td>De Tal</th>
+    					<td>fulano@gmail.com</th>
+    				</tr><tr>
+    					<td>Fulano</th>
+    					<td>De Tal</th>
+    					<td>fulano@gmail.com</th>
+    				</tr>
+    			</tbody>
 			</table>
 			
 		</div>
