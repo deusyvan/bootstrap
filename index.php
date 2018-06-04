@@ -10,12 +10,12 @@
 	</head>
 	<body>
 		<div class="container">
-			<h1>Meu primeiro sistema bootstrap</h1>
+			<h1>Meu primeiro <small>sistema bootstrap</small></h1>
 			<p>Este é o meu primeiro teste</p>
 			
 			<div class="row">
-				<div class="col-sm-3" style="text-align: center; background-color: #999">A</div>
-				<div class="col-sm-9" style="text-align: center; background-color: #EEE">B</div>
+				<div class="col-sm-2" style="text-align: center; background-color: #999">A</div>
+				<div class="col-sm-10" style="text-align: center; background-color: #EEE">B</div>
 			</div>
 		</div>
 	</body>
