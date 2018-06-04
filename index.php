@@ -15,37 +15,7 @@
 			
 			<hr/>
 			
-			<table class="table">
-				<thead>
-    				<tr>
-    					<th>Nome</th>
-    					<th>Sobrenome</th>
-    					<th>E-mail</th>
-    				</tr>
-				</thead>
-				<tbody>
-    				<tr class="danger">
-    					<td>Fulano</th>
-    					<td>De Tal</th>
-    					<td>fulano@gmail.com</th>
-    				</tr>
-    				<tr class="active">
-    					<td>Fulano</th>
-    					<td>De Tal</th>
-    					<td>fulano@gmail.com</th>
-    				</tr>
-    				<tr>
-    					<td>Fulano</th>
-    					<td>De Tal</th>
-    					<td>fulano@gmail.com</th>
-    				</tr>
-    				<tr class="success">
-    					<td>Fulano</th>
-    					<td>De Tal</th>
-    					<td>fulano@gmail.com</th>
-    				</tr>
-    			</tbody>
-			</table>
+			<img src="europa.jpeg">
 			
 		</div>
 	</body>
