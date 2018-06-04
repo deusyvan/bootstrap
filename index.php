@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<p class="text-uppercase">Este texto representa tudo maiúsculo</p>
+			<p class="text-lowercase">ESTE TESTO EM MINÚSCULO</p>
 			
 		</div>
 	</body>
