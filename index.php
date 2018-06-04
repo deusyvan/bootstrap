@@ -15,11 +15,7 @@
 			
 			<hr/>
 			
-			<pre>
-			Do jeito
-			que você
-			escreveu.
-			</pre>
+			<p class="text-danger">Este texto representa algum tipo de perigo.</p>
 			
 		</div>
 	</body>
