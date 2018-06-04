@@ -24,7 +24,7 @@
     				</tr>
 				</thead>
 				<tbody>
-    				<tr>
+    				<tr class="danger">
     					<td>Fulano</th>
     					<td>De Tal</th>
     					<td>fulano@gmail.com</th>
