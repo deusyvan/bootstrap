@@ -15,10 +15,13 @@
 			
 			<hr/>
 			
-			<blockquote>
-				Essa é uma citação muito famosa de um autor famoso.
-				<footer>Autor desconhecido</footer>
-			</blockquote>
+			<dl>
+				<dt>Café</dt>
+				<dd>- Bebida quente preta</dd>
+				
+				<dt>Leite</dt>
+				<dd>- Bebia fria branca</dd>
+			</dl>
 			
 		</div>
 	</body>
