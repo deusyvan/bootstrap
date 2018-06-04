@@ -15,7 +15,11 @@
 			
 			<hr/>
 			
-			<p>Para salvar, aperte em <kbd>ctrl + s</kbd></p>
+			<pre>
+			Do jeito
+			que você
+			escreveu.
+			</pre>
 			
 		</div>
 	</body>
