@@ -15,7 +15,11 @@
 			
 			<hr/>
 			
-			<p>Essa é uma <mark>frase específica </mark>para o <abbr title="Um Framework muito legal">Bootstrap</abbr></p>
+			<blockquote class="blockquote-reverse">
+				Essa é uma citação muito famosa de um autor famoso.
+				<footer>Autor desconhecido</footer>
+			</blockquote>
+			
 		</div>
 	</body>
 </html>
