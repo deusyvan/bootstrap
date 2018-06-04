@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<p class="text-center">Este texto representa algum tipo de sucesso alinhado no meio.</p>
+			<p class="text-uppercase">Este texto representa tudo maiúsculo</p>
 			
 		</div>
 	</body>
