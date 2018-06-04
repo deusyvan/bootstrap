@@ -15,7 +15,33 @@
 			
 			<hr/>
 			
-			<p class="text-lowercase">ESTE TESTO EM MINÚSCULO</p>
+			<table>
+				<tr>
+					<th>Nome</th>
+					<th>Sobrenome</th>
+					<th>E-mail</th>
+				</tr>
+				<tr>
+					<th>Fulano</th>
+					<th>De Tal</th>
+					<th>fulano@gmail.com</th>
+				</tr>
+				<tr>
+					<th>Fulano</th>
+					<th>De Tal</th>
+					<th>fulano@gmail.com</th>
+				</tr>
+				<tr>
+					<th>Fulano</th>
+					<th>De Tal</th>
+					<th>fulano@gmail.com</th>
+				</tr>
+				<tr>
+					<th>Fulano</th>
+					<th>De Tal</th>
+					<th>fulano@gmail.com</th>
+				</tr>
+			</table>
 			
 		</div>
 	</body>
