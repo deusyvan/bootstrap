@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<p>Para fazer uma citação no Bootstrap, use <code>blockquotes</code>  e também <code>outros como footer</code></p>
+			<p>Para salvar, aperte em <kbd>ctrl + s</kbd></p>
 			
 		</div>
 	</body>
