@@ -15,13 +15,7 @@
 			
 			<hr/>
 			
-			<dl>
-				<dt>Café</dt>
-				<dd>- Bebida quente preta</dd>
-				
-				<dt>Leite</dt>
-				<dd>- Bebia fria branca</dd>
-			</dl>
+			<p>Para fazer uma citação no Bootstrap, use <code>blockquotes</code>  e também <code>outros como footer</code></p>
 			
 		</div>
 	</body>
