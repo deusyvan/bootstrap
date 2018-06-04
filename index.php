@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<img src="europa.jpeg">
+			<img src="homen.jpg" class="img-responsive" />
 			
 		</div>
 	</body>
