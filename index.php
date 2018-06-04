@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<blockquote class="blockquote-reverse">
+			<blockquote>
 				Essa é uma citação muito famosa de um autor famoso.
 				<footer>Autor desconhecido</footer>
 			</blockquote>
