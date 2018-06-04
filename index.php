@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<p>Essa é uma <mark>frase específica </mark>para o Bootstrap</p>
+			<p>Essa é uma <mark>frase específica </mark>para o <abbr title="Um Framework muito legal">Bootstrap</abbr></p>
 		</div>
 	</body>
 </html>
