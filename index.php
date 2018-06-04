@@ -33,11 +33,13 @@
     					<td>Fulano</th>
     					<td>De Tal</th>
     					<td>fulano@gmail.com</th>
-    				</tr><tr>
+    				</tr>
+    				<tr>
     					<td>Fulano</th>
     					<td>De Tal</th>
     					<td>fulano@gmail.com</th>
-    				</tr><tr>
+    				</tr>
+    				<tr class="success">
     					<td>Fulano</th>
     					<td>De Tal</th>
     					<td>fulano@gmail.com</th>
