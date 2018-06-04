@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<table class="table table-hover">
+			<table class="table table-condensed">
 				<thead>
     				<tr>
     					<th>Nome</th>
