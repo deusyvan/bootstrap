@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<p class="bg-primary">Este texto representa algum tipo de sucesso.</p>
+			<p class="text-center">Este texto representa algum tipo de sucesso alinhado no meio.</p>
 			
 		</div>
 	</body>
