@@ -15,10 +15,10 @@
 			
 			<hr/>
 			<p>Qual empresa você prefere?</p>
-			<div class="btn-group">
-    			<button class="btn btn-primary">Apple</button>
-    			<button class="btn btn-primary">Samsung</button>
-    			<button class="btn btn-primary">Sony</button>
+			<div class="btn-group btn-group-justified">
+    			<a class="btn btn-primary">Apple</a>
+    			<a class="btn btn-primary">Samsung</a>
+    			<a class="btn btn-primary">Sony</a>
 			
 			</div>
 			
