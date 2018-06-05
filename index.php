@@ -15,10 +15,18 @@
 			
 			<hr/>
 			
-			<div class="alert">
+			<div class="alert alert-success">
 				Senha criada com sucesso!
 			</div>
-			
+			<div class="alert alert-danger">
+				E-mail e/ou senha incorretos!
+			</div>
+			<div class="alert alert-warning">
+				Sua fatura está vencendo!
+			</div>
+			<div class="alert alert-info">
+				Fatura paga!
+			</div>
 		</div>
 	</body>
 </html>
