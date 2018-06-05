@@ -14,13 +14,14 @@
 			<p>Este é o meu primeiro teste</p>
 			
 			<hr/>
+			<p>Qual empresa você prefere?</p>
+			<div class="btn-group">
+    			<button class="btn btn-primary">Apple</button>
+    			<button class="btn btn-primary">Samsung</button>
+    			<button class="btn btn-primary">Sony</button>
 			
-			<button class="btn btn-default btn-xs">Este é um botão</button>
-			<button class="btn btn-success btn-sm">Este é um botão</button>
-			<button class="btn btn-danger btn-md">Este é um botão</button>
-			<button class="btn btn-info btn-lg btn-block disabled">Este é um botão</button>
-			<button class="btn btn-link ">Este é um botão</button>
-			<button class="btn btn-primary">Este é um botão</button>
+			</div>
+			
 			
 		</div>
 	</body>
