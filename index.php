@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<button class="btn btn-primary">Mensagens</button>
+			<button class="btn btn-primary">Mensagens<span class="badge">7</span></button>
 			
 		</div>
 	</body>
