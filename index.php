@@ -15,11 +15,9 @@
 			
 			<hr/>
 			
-			<button class="btn btn-primary">Mensagens<span class="badge">7</span></button>
+			<div class="panel panel-default">
 			
-			<h4>Meu menu<span class="label label-warning">novo</span></h4>
-			
-			<h4>Meu menu<span class="label label-danger">depreciado</span></h4>
+			</div>
 			
 		</div>
 	</body>
