@@ -19,8 +19,8 @@
 				<div class="panel-heading">Esportes</div>
 				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
 			</div>
-			<div class="panel panel-success">
-				<div class="panel-heading">Esportes</div>
+			<div class="panel panel-danger">
+				<div class="panel-heading">Política</div>
 				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
 			</div>
 			
