@@ -15,8 +15,8 @@
 			
 			<hr/>
 			
-			<button>Collapse</button>	
-			<div id="teste">
+			<button data-toggle="collapse" >Collapse</button>	
+			<div id="teste" class="collapse">
 				Alguma frase qualquer
 			</div>
 		</div>
