@@ -18,7 +18,7 @@
 			<button class="btn btn-default btn-xs">Este é um botão</button>
 			<button class="btn btn-success btn-sm">Este é um botão</button>
 			<button class="btn btn-danger btn-md">Este é um botão</button>
-			<button class="btn btn-info btn-lg btn-block">Este é um botão</button>
+			<button class="btn btn-info btn-lg btn-block disabled">Este é um botão</button>
 			
 		</div>
 	</body>
