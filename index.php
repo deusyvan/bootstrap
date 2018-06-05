@@ -19,7 +19,7 @@
 				<ul class="dropdown-menu">
 					<li class="dropdown-header">Linguagens a serem aprendidas</li>
 					<li><a href="#">PHP</a></li>
-					<li><a href="#">HTML</a></li>
+					<li class="disabled"><a href="#">HTML</a></li>
 					<li><a href="#">CSS</a></li>
 					<li class="divider"></li>
 					<li><a href="#">Javascript</a></li>
