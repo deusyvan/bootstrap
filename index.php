@@ -16,7 +16,8 @@
 			<hr/>
 			
 			<div class="panel panel-default">
-			
+				<div class="panel-heading">Esportes</div>
+				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
 			</div>
 			
 		</div>
