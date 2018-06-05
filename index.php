@@ -15,7 +15,7 @@
 			
 			<hr/>
 			<div class="dropdown">
-				<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" >Escolha</button>
+				<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" >Escolha <span class="caret"></span></button>
 			</div>
 			
 			
