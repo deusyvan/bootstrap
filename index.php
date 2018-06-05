@@ -16,6 +16,11 @@
 			<hr/>
 			<div class="dropdown">
 				<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" >Escolha <span class="caret"></span></button>
+				<ul class="dropdown-menu">
+					<li><a href="#">PHP</a></li>
+					<li><a href="#">HTML</a></li>
+					<li><a href="#">CSS</a></li>
+				</ul>
 			</div>
 			
 			
