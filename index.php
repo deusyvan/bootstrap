@@ -16,6 +16,9 @@
 			<hr/>
 			
 			<button class="btn btn-default">Este é um botão</button>
+			<button class="btn btn-success">Este é um botão</button>
+			<button class="btn btn-danger">Este é um botão</button>
+			<button class="btn btn-info">Este é um botão</button>
 			
 		</div>
 	</body>
