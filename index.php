@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<img src="homen.jpg" class="img-responsive img-rounded" />
+			<img src="homen.jpg" class="img-responsive img-circle" />
 			
 		</div>
 	</body>
