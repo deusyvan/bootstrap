@@ -14,18 +14,10 @@
 			<p>Este é o meu primeiro teste</p>
 			
 			<hr/>
-			<div class="dropdown">
-				<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" >Escolha <span class="caret"></span></button>
-				<ul class="dropdown-menu">
-					<li class="dropdown-header">Linguagens a serem aprendidas</li>
-					<li><a href="#">PHP</a></li>
-					<li class="disabled"><a href="#">HTML</a></li>
-					<li><a href="#">CSS</a></li>
-					<li class="divider"></li>
-					<li><a href="#">Javascript</a></li>
-				</ul>
+			<div class="jumbotron">
+				<h1>Curso de Bootstrap</h1>
+				<p>O Bootstrap é o mais popular framework de HTML, CSS e Javascript para criação de designs responsivos na internet.</p>
 			</div>
-			
 			
 		</div>
 	</body>
