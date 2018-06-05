@@ -16,14 +16,14 @@
 			<hr/>
 			
 			<div class="row">
-				<div class="col-sm-6">
+				<div class="col-sm-8">
 					<div class="panel panel-danger">
         				<div class="panel-heading">Política</div>
         				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
 					</div>
 				</div>
-				<div class="col-sm-6">
-					<div class="panel panel-default">
+				<div class="col-sm-4">
+					<div class="panel panel-primary">
         				<div class="panel-heading">Esportes</div>
         				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
         			</div>
