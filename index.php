@@ -15,17 +15,20 @@
 			
 			<hr/>
 			
-			<div class="alert alert-success">
+			<div class="alert alert-success fade in">
 				<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
 				Senha criada com sucesso!
 			</div>
 			<div class="alert alert-danger">
+			<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
 				E-mail e/ou senha incorretos!
 			</div>
 			<div class="alert alert-warning">
+				<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
 				Sua fatura está vencendo!
 			</div>
 			<div class="alert alert-info">
+			<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
 				Fatura paga!
 			</div>
 		</div>
