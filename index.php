@@ -15,7 +15,7 @@
 			
 			<hr/>
 			<div class="dropdown">
-			
+				<button class="btn btn-primary">Escolha</button>
 			</div>
 			
 			
