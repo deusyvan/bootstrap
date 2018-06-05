@@ -14,19 +14,7 @@
 			<p>Este é o meu primeiro teste</p>
 			
 			<hr/>
-			<p>Qual empresa você prefere?</p>
-			<div class="btn-group">
-    			<a class="btn btn-primary">Apple</a>
-    			<a class="btn btn-primary">Samsung</a>
-    			<a class="btn btn-primary">Sony</a>
-			
-			</div>
-			
-			<p>Qual empresa você prefere?</p>
-			<div class="btn-group-vertical">
-    			<a class="btn btn-primary">Apple</a>
-    			<a class="btn btn-primary">Samsung</a>
-    			<a class="btn btn-primary">Sony</a>
+			<div class="dropdown">
 			
 			</div>
 			
