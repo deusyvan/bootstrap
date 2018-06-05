@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<button>Este é um botão</button>
+			<button class="btn btn-default">Este é um botão</button>
 			
 		</div>
 	</body>
