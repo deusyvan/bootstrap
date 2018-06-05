@@ -16,7 +16,7 @@
 			<hr/>
 			
 			<button data-toggle="collapse" data-target="#teste" >Collapse</button>	
-			<div id="teste" class="collapse">
+			<div id="teste" class="collapse in">
 				Alguma frase qualquer
 			</div>
 		</div>
