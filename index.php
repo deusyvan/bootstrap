@@ -16,7 +16,7 @@
 			<hr/>
 			
 			<div class="alert">
-			
+				Senha criada com sucesso!
 			</div>
 			
 		</div>
