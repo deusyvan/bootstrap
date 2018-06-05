@@ -15,14 +15,21 @@
 			
 			<hr/>
 			
-			<div class="panel panel-default">
-				<div class="panel-heading">Esportes</div>
-				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="panel panel-danger">
+        				<div class="panel-heading">Política</div>
+        				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="panel panel-default">
+        				<div class="panel-heading">Esportes</div>
+        				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
+        			</div>
+        		</div>
 			</div>
-			<div class="panel panel-danger">
-				<div class="panel-heading">Política</div>
-				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
-			</div>
+			
 			
 		</div>
 	</body>
