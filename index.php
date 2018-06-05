@@ -16,6 +16,7 @@
 			<hr/>
 			
 			<div class="alert alert-success">
+				<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
 				Senha criada com sucesso!
 			</div>
 			<div class="alert alert-danger">
