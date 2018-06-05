@@ -14,9 +14,9 @@
 			<p>Este é o meu primeiro teste</p>
 			
 			<hr/>
-			<div class="jumbotron">
-				<h1>Curso de Bootstrap</h1>
-				<p>O Bootstrap é o mais popular framework de HTML, CSS e Javascript para criação de designs responsivos na internet.</p>
+			
+			<div class="alert">
+			
 			</div>
 			
 		</div>
