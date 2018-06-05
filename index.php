@@ -15,22 +15,10 @@
 			
 			<hr/>
 			
-			<div class="row">
-				<div class="col-sm-8">
-					<div class="panel panel-danger">
-        				<div class="panel-heading">Política</div>
-        				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
-					</div>
-				</div>
-				<div class="col-sm-4">
-					<div class="panel panel-primary">
-        				<div class="panel-heading">Esportes</div>
-        				<div class="panel-body">Notícias e conteúdos sobre esportes</div>
-        			</div>
-        		</div>
+			<button>Collapse</button>	
+			<div id="teste">
+				Alguma frase qualquer
 			</div>
-			
-			
 		</div>
 	</body>
 </html>
