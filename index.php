@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<img src="homen.jpg" class="img-responsive img-thumbnail" />
+			<button>Este é um botão</button>
 			
 		</div>
 	</body>
