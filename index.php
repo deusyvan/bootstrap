@@ -15,10 +15,10 @@
 			
 			<hr/>
 			
-			<button class="btn btn-default">Este é um botão</button>
-			<button class="btn btn-success">Este é um botão</button>
-			<button class="btn btn-danger">Este é um botão</button>
-			<button class="btn btn-info">Este é um botão</button>
+			<button class="btn btn-default btn-xs">Este é um botão</button>
+			<button class="btn btn-success btn-sm">Este é um botão</button>
+			<button class="btn btn-danger btn-md">Este é um botão</button>
+			<button class="btn btn-info btn-lg">Este é um botão</button>
 			
 		</div>
 	</body>
