@@ -17,10 +17,14 @@
 			
 			<div class="panel panel-default">
 				<div class="panel-heading">
-					<h4 class="panel-title">Granito</h4>
+					<h4 class="panel-title">
+						<a href="#teste" data-toggle="collapse">Granito</a>
+					</h4>
 				</div>
-				<div class="panel-body">
-				  A explicação muito complexa sobre granitos
+				<div id="teste" class="collapse panel-collapse">
+    				<div class="panel-body">
+    				  A explicação muito complexa sobre granitos
+    				</div>
 				</div>
 			
 			</div>
