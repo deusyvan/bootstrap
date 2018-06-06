@@ -16,7 +16,7 @@
 			<hr/>
 			
 			<ul class="nav nav-tabs">
-				<li>
+				<li class="active">
 					<a href="" data-toggle="tab" >HOME</a>
 				</li>
 				<li>
