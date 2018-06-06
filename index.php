@@ -28,14 +28,17 @@
 			</ul>
 			
 			<div class="tab-content">
-				<div id="home" class="tab-pane active in">
-					Conteúdo do HOME
+				<div id="home" class="tab-pane active in fade">
+					<h3>HOME</h3>
+					<p>Conteúdo do HOME</p>
 				</div>
-				<div id="sobre" class="tab-pane">
-					Página SOBRE
+				<div id="sobre" class="tab-pane fade">
+					<h3>SOBRE</h3>
+					<p>Página SOBRE</p>
 				</div>
-				<div id="contato" class="tab-pane">
-					Formulário de CONTATO
+				<div id="contato" class="tab-pane fade">
+					<h3>CONTATO</h3>
+					<p>Formulário de CONTATO</p>
 				</div>
 			</div>
 			
