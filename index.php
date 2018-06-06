@@ -28,13 +28,13 @@
 			</ul>
 			
 			<div class="tab-content">
-				<div id="home">
+				<div id="home" class="tab-pane">
 				
 				</div>
-				<div id="sobre">
+				<div id="sobre" class="tab-pane">
 				
 				</div>
-				<div id="contato">
+				<div id="contato" class="tab-pane">
 				
 				</div>
 			</div>
