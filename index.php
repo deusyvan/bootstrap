@@ -27,6 +27,10 @@
 				</li>
 			</ul>
 			
+			<div class="tab-content">
+			
+			</div>
+			
 		</div>
 	</body>
 </html>
