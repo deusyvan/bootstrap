@@ -16,7 +16,15 @@
 			<hr/>
 			
 			<ul class="nav nav-tabs">
-				
+				<li>
+					<a href="">HOME</a>
+				</li>
+				<li>
+					<a href="">SOBRE</a>
+				</li>
+				<li>
+					<a href="">CONTATO</a>
+				</li>
 			</ul>
 			
 		</div>
