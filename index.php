@@ -29,13 +29,13 @@
 			
 			<div class="tab-content">
 				<div id="home" class="tab-pane">
-				
+					Conteúdo do HOME
 				</div>
 				<div id="sobre" class="tab-pane">
-				
+					Página SOBRE
 				</div>
 				<div id="contato" class="tab-pane">
-				
+					Formulário de CONTATO
 				</div>
 			</div>
 			
