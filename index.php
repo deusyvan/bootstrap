@@ -17,18 +17,26 @@
 			
 			<ul class="nav nav-tabs">
 				<li class="active">
-					<a href="" data-toggle="tab" >HOME</a>
+					<a href="#home" data-toggle="tab" >HOME</a>
 				</li>
 				<li>
-					<a href="" data-toggle="tab">SOBRE</a>
+					<a href="#sobre" data-toggle="tab">SOBRE</a>
 				</li>
 				<li>
-					<a href="" data-toggle="tab">CONTATO</a>
+					<a href="#contato" data-toggle="tab">CONTATO</a>
 				</li>
 			</ul>
 			
 			<div class="tab-content">
-			
+				<div id="home">
+				
+				</div>
+				<div id="sobre">
+				
+				</div>
+				<div id="contato">
+				
+				</div>
 			</div>
 			
 		</div>
