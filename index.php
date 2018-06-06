@@ -15,13 +15,14 @@
 			
 			<hr/>
 			
-			<ul class="list-group">
-				<li class="list-group-item">Item 1</li>
-				<li class="list-group-item">Item 2</li>
-				<li class="list-group-item">Item 3</li>
-				<li class="list-group-item">Item 4</li>
-				<li class="list-group-item">Item 5</li>
-			</ul>
+			
+			<div class="list-group">
+				<a href="" class="list-group-item">Item 1</a>
+				<a href="" class="list-group-item">Item 2</a>
+				<a href="" class="list-group-item">Item 3</a>
+				<a href="" class="list-group-item">Item 4</a>
+				<a href="" class="list-group-item">Item 5</a>
+			</div>
 			
 			
 		</div>
