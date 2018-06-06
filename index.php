@@ -17,13 +17,13 @@
 			
 			<ul class="nav nav-tabs">
 				<li>
-					<a href="">HOME</a>
+					<a href="" data-toggle="tab" >HOME</a>
 				</li>
 				<li>
-					<a href="">SOBRE</a>
+					<a href="" data-toggle="tab">SOBRE</a>
 				</li>
 				<li>
-					<a href="">CONTATO</a>
+					<a href="" data-toggle="tab">CONTATO</a>
 				</li>
 			</ul>
 			
