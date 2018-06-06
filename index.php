@@ -15,19 +15,13 @@
 			
 			<hr/>
 			
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title">
-						<a href="#teste" data-toggle="collapse">Granito</a>
-					</h4>
-				</div>
-				<div id="teste" class="collapse panel-collapse">
-    				<div class="panel-body">
-    				  A explicação muito complexa sobre granitos
-    				</div>
-				</div>
-			
-			</div>
+			<ul>
+				<li>Item 1</li>
+				<li>Item 2</li>
+				<li>Item 3</li>
+				<li>Item 4</li>
+				<li>Item 5</li>
+			</ul>
 			
 			
 		</div>
