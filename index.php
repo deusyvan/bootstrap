@@ -28,7 +28,7 @@
 			</ul>
 			
 			<div class="tab-content">
-				<div id="home" class="tab-pane">
+				<div id="home" class="tab-pane active in">
 					Conteúdo do HOME
 				</div>
 				<div id="sobre" class="tab-pane">
