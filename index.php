@@ -24,6 +24,9 @@
 							<button class="close" data-dismiss="modal">&times;</button>
 							<h4 class="modal-title">Título do meu Modal</h4>
 						</div>
+						<div class="modal-body">
+							<p>Conteúdo do meu modal</p>
+						</div>
 					</div>
 				</div>
 			</div>
