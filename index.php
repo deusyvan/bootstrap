@@ -27,6 +27,9 @@
 						<div class="modal-body">
 							<p>Conteúdo do meu modal</p>
 						</div>
+						<div class="modal-footer">
+							<button class="btn btn-default" data-dismiss="modal">Fechar</button>
+						</div>
 					</div>
 				</div>
 			</div>
