@@ -15,29 +15,18 @@
 			
 			<hr/>
 			
-			<nav class="navbar navbar-inverse navbar-fixed-bottom">
-				<div class="container-fluid">
-					<div class="navbar-header">
-						<a class="navbar-brand " href="">Minha Empresa.com</a>
-					</div>
-					<ul class="nav navbar-nav ">
-						<li><a href="">Home</a></li>
-						<li class="dropdown">
-							<a href="" class="dropdown-toogle" data-toggle="dropdown" >Empresa <span class="caret"></span></a>
-							<ul class="dropdown-menu">
-								<li><a href="">Estrutura</a></li>
-								<li><a href="">Cultura</a></li>
-								<li><a href="">Carreira</a></li>
-							</ul>
-						</li>
-						<li><a href="">Contato</a></li>
-					</ul>
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="">Login</a></li>
-						<li><a href="">Sair</a></li>
-					</ul>
-				</div>
-			</nav>
+			<form method="POST">
+			
+				E-mail: <br/>
+            	<input type="email" name="email"/><br/><br/>
+            	
+            	Senha: <br/>
+            	<input type="password" name="senha"/><br/><br/>
+            	
+            	<input type="submit" value="Entrar"/>
+				
+			
+			</form>
 						
 		</div>
 	</body>
