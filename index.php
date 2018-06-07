@@ -20,7 +20,9 @@
 			<div class="modal" role="dialog" id="janela">
 				<div class="modal-dialog">
 					<div class="modal-content">
-					
+						<div class="modal-header">
+							<button class="close" data-dismiss="modal">&times;</button>
+						</div>
 					</div>
 				</div>
 			</div>
