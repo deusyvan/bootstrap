@@ -23,7 +23,12 @@
 					<ul class="nav navbar-nav ">
 						<li><a href="">Home</a></li>
 						<li class="dropdown">
-							<a href="" class="dropdown-toogle" data-toggle="dropdown" >Empresa</a>
+							<a href="" class="dropdown-toogle" data-toggle="dropdown" >Empresa <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="">Estrutura</a></li>
+								<li><a href="">Cultura</a></li>
+								<li><a href="">Carreira</a></li>
+							</ul>
 						</li>
 						<li><a href="">Contato</a></li>
 					</ul>
