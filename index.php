@@ -15,32 +15,15 @@
 			
 			<hr/>
 			
-			<ul class="nav nav-tabs">
-				<li class="active">
-					<a href="#home" data-toggle="tab" >HOME</a>
-				</li>
-				<li>
-					<a href="#sobre" data-toggle="tab">SOBRE</a>
-				</li>
-				<li>
-					<a href="#contato" data-toggle="tab">CONTATO</a>
-				</li>
+			<ul>
+				<li><a href="">1</a></li>
+				<li><a href="">2</a></li>
+				<li><a href="">3</a></li>
+				<li><a href="">4</a></li>
+				<li><a href="">5</a></li>
+				<li><a href="">6</a></li>
+				
 			</ul>
-			
-			<div class="tab-content">
-				<div id="home" class="tab-pane active in fade">
-					<h3>HOME</h3>
-					<p>Conteúdo do HOME</p>
-				</div>
-				<div id="sobre" class="tab-pane fade">
-					<h3>SOBRE</h3>
-					<p>Página SOBRE</p>
-				</div>
-				<div id="contato" class="tab-pane fade">
-					<h3>CONTATO</h3>
-					<p>Formulário de CONTATO</p>
-				</div>
-			</div>
 			
 		</div>
 	</body>
