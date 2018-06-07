@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<button class="btn btn-info" data-toggle="modal">Abrir Modal</button>
+			<button class="btn btn-info" data-toggle="modal" data-target="#janela">Abrir Modal</button>
 									
 		</div>
 	</body>
