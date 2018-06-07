@@ -16,7 +16,9 @@
 			<hr/>
 			
 			<nav class="navbar">
-			
+				<div class="container-fluid">
+				
+				</div>
 			</nav>
 						
 		</div>
