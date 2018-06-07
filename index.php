@@ -22,6 +22,10 @@
 						<li><a href="">Empresa</a></li>
 						<li><a href="">Contato</a></li>
 					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="">Login</a></li>
+						<li><a href="">Sair</a></li>
+					</ul>
 				</div>
 			</nav>
 						
