@@ -15,20 +15,8 @@
 			
 			<hr/>
 			
-			<form method="POST">
-				<div class="form-group">
-    				E-mail:
-                	<input type="email" name="email" class="form-control"/>
-				</div>
-            	<div class="form-group">
-                	Senha: 
-                	<input type="password" name="senha" class="form-control"/>
-            	</div>
-            	<input type="submit" value="Entrar" class="btn btn-default"/>
-				
-			
-			</form>
-						
+			<button class="btn btn-info">Abrir Modal</button>
+									
 		</div>
 	</body>
 </html>
