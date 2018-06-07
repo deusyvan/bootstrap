@@ -15,7 +15,7 @@
 			
 			<hr/>
 			
-			<ul>
+			<ul class="pager">
 				<li><a href="">Aula anterior</a></li>
 				<li><a href="">Próxima aula</a></li>			
 			</ul>
