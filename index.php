@@ -15,11 +15,10 @@
 			
 			<hr/>
 			
-			<ul class="pager">
-				<li class="previous"><a href="">Aula anterior</a></li>
-				<li class="next"><a href="">Próxima aula</a></li>			
-			</ul>
+			<nav class="navbar">
 			
+			</nav>
+						
 		</div>
 	</body>
 </html>
