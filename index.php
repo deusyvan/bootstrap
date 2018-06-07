@@ -17,7 +17,7 @@
 			
 			<button class="btn btn-info" data-toggle="modal" data-target="#janela">Abrir Modal</button>
 			
-			<div class="modal" >
+			<div class="modal" role="dialog" id="janela">
 			
 			</div>
 									
