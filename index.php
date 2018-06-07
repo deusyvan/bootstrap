@@ -17,11 +17,11 @@
 			
 			<form method="POST">
 			
-				E-mail: <br/>
-            	<input type="email" name="email"/><br/><br/>
+				E-mail:
+            	<input type="email" name="email" class="form-control"/>
             	
-            	Senha: <br/>
-            	<input type="password" name="senha"/><br/><br/>
+            	Senha: 
+            	<input type="password" name="senha" class="form-control"/>
             	
             	<input type="submit" value="Entrar"/>
 				
