@@ -22,7 +22,9 @@
 					</div>
 					<ul class="nav navbar-nav ">
 						<li><a href="">Home</a></li>
-						<li><a href="">Empresa</a></li>
+						<li class="dropdown">
+							<a href="" class="dropdown-toogle" data-toggle="dropdown" >Empresa</a>
+						</li>
 						<li><a href="">Contato</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
